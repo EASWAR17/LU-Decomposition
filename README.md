@@ -69,12 +69,11 @@ x=lu_solve((lu, pivot),b)
 print(x)
 */
 ```
-(ii) To find the LU Decomposition of a matrix
-```
+
 
 
 ## Output:
-![lu decomposition](s6.PNG)
+![lu decomposition](s5.PNG)
 
 
 ## Result:
