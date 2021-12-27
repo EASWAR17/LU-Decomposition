@@ -32,7 +32,7 @@ print(u)
 
 
 ## Output:
-![lu decomposition](s5.png)
+![lu decomposition](s5.PNG)
 
 
 ## Result:
@@ -71,15 +71,10 @@ print(x)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
-*/
-```
+
 
 ## Output:
-![lu decomposition](s6.png)
+![lu decomposition](s6.PNG)
 
 
 ## Result:
